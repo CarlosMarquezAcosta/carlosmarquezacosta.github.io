@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Economicis Lover"
+title                    : "Economics Lover"
 title_separator          : "-"
 name                     : &name "Carlos Marquez"
 description              : &description "Economist and Data Scientist"
