@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Economics Lover"
+title                    : "The future of our Economy and Tech"
 title_separator          : "-"
 name                     : &name "Carlos Marquez"
 description              : &description "Economist and Data Scientist"
@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Carlos Marquez"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him"
   bio              : "Economics MA grad with interests in public policy, data, and research"
   location         : "United States"
-  employer         : "Red Brick University"
+  employer         : "Florida International Univeristy"
   uri              : # URL
   email            : "carlos.marquezacosta01@gmail.com" 
 
